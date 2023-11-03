@@ -1,5 +1,4 @@
-%sh 
-pip install nltk
+%sh
 pip install --upgrade pip
 python -m nltk.downloader all
 
